@@ -47,6 +47,7 @@ export type EngineeringSection =
   | 'QC'
   | 'RTG'
   | 'MES'
+  | 'Shift Incharge'
   | 'Planning'
   | 'Store'
   | 'Infra'
